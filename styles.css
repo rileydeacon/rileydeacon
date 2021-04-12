@@ -1,5 +1,5 @@
 html {
-    font-size: 4vw;
+    font-size: 5vw;
     margin: 0px;
 }
 
@@ -13,12 +13,16 @@ h1 {
     color: white;
     margin: 0px;
     vertical-align: middle;
+    font-weight: bold;
+}
+
+h2 {
+    color: seashell;
+    margin: 0px;
+    font-weight: normal;
 }
 
 .header {
-    margin: 0px;
-    display: flex;
-    justify-content: center;
     right: 50%;
     bottom: 50%;
     transform: translate(50%,50%);
